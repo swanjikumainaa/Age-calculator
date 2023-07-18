@@ -1,0 +1,26 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.form{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 40px;
+
+}
+
+/* .form > input{
+    width: 5px;
+} */
+.year{
+    display: flex;
+    flex-direction: column;
+}
+
+.month{
+    display: flex;
+    flex-direction: column;
+}
+.day{
+    display: flex;
+    flex-direction: column;
+}
